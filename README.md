@@ -1,2 +1,2 @@
 # sistemaerp
-Sistema Administrado ERP  -  EXPO / REACT para todos os dispositivos  IOS, Android e Web
+Sistema Administrativo ERP  -  EXPO / REACT para todos os dispositivos  IOS, Android e Web
